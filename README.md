@@ -1,2 +1,2 @@
 # Course-Enrollment-Database
-Menu-driven Python + MongoDB (PyMongo) CLI for a school enrollment system with CRUD and enrollment rule checks.
+A menu-driven CLI to manage a school enrollment database on MongoDB. Supports CRUD for departments/courses/sections/students and enforces key enrollment rules with clear error handling.
